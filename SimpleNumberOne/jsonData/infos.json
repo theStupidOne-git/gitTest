@@ -1,0 +1,10 @@
+{
+	"age": 19,
+	"name": "Madeline",
+	"active": true,
+	"organs":  {
+	   "liver":"Good",
+	   "kidneys":"Good",
+	   "hearth":"Bad"
+	}
+}
